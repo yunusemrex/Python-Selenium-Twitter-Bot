@@ -2,7 +2,7 @@
  Python Selenium Twitter Bot
 
 # This is a twitter bot that allows you to do automate a variety of basic twitter tasks. 
-1- Auto Login With Your @username and password
+1- Auto Login With Your @username and Password
 
 2- Shows Followed Profiles
 
